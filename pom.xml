@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.edu.ifrs.canoas.java</groupId>
-	<artifactId>heranca</artifactId>
+	<artifactId>heranca-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>heranca</name>
+	<name>heranca-1</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
