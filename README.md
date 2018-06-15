@@ -1,4 +1,6 @@
-# heranca-1
+## [Módulo 1: Linguagem de Programação Orientada a Objetos 1](https://aula-java.github.io/aulas/lpoo-1.html)
+
+# Exercício Herança 1
 
 1. Clone o projeto
 2. Remova toda a repetição de código através do mecanismo de herança. Faça o teste unitário passar. 
